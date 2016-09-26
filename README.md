@@ -1,0 +1,1 @@
+<img src="wp-content/themes/danstheme/screenshot.png">
